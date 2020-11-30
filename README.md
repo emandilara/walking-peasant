@@ -1,4 +1,4 @@
-# walking-peasant
+# Walking peasant
 
 A Unity project where users can guide with their voice a walking peasant
 
