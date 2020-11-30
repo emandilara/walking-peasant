@@ -17,9 +17,10 @@ The hardware needed is a mobile headset or a HMD. The project doesn't require an
 ## How to move the peasant
 
 The avatar can move using the following voice commands:
-`Go ahead` -> to go forward
-`Go back` -> to go backwards
-`Turn right` -> to turn right
-`Turn left` -> to turn left
+
+- `Go ahead` -> to go forward
+- `Go back` -> to go backwards
+- `Turn right` -> to turn right
+- `Turn left` -> to turn left
 
 Enjoy!
