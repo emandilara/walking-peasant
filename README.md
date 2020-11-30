@@ -4,7 +4,7 @@ A Unity project where users can guide with their voice a walking peasant
 
 ## Description
 
-The project contains a unity scene of a countryside landscape. The user has an avatar body of a peasant that is able to walk with voice commands from the user.
+The project contains a Unity scene of a countryside landscape. The user has an avatar body of a peasant that is able to walk with voice commands from the user.
 
 ## How to run
 
